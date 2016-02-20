@@ -1,4 +1,4 @@
-# plot1 plots a histogram showing a distrbution of global active power
+# plot4 plots 4 graphs into one PNG graphics device: 2 graphs on each row
 
 # source loadData.R helper script
 loadDataPath <- file.path("loadData.R")

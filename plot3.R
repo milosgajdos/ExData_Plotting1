@@ -1,4 +1,5 @@
-# plot1 plots a histogram showing a distrbution of global active power
+# plot3 plots Energy sub metering graphi over a time period
+# it plots 3 different submetering graphs into the same global graph
 
 # source loadData.R helper script
 loadDataPath <- file.path("loadData.R")

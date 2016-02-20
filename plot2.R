@@ -1,4 +1,4 @@
-# plot1 plots a histogram showing a distrbution of global active power
+# plot2 plots a line graph of Global Activer Power usage in kilowattes over a time period
 
 # source loadData.R helper script
 loadDataPath <- file.path("loadData.R")
